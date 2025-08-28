@@ -1,0 +1,22 @@
+Place your screen recording at /6_Demo/demo_brand_sprint.mp4 (1–2 min) showing:
+- 30s ChatGPT prompt result
+- 45–60s Canva Magic Media logo export
+- 10s closing with final brand assets
+
+Expected video structure:
+0:00-0:05 - Intro with Pulse & Pixel logo
+0:05-0:35 - ChatGPT prompt and result
+0:35-1:35 - Canva logo creation and export
+1:35-1:45 - Final brand assets showcase
+1:45-2:00 - Call to action and contact info
+
+Video specs:
+- Resolution: 1920x1080
+- Format: MP4
+- Frame rate: 30fps
+- Max file size: 50MB
+
+Audio requirements:
+- Clear voiceover
+- Background music (optional but recommended)
+- No copyrighted material

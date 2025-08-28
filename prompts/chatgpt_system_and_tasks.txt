@@ -1,0 +1,66 @@
+# Pulse & Pixel - AI Prompt Library
+
+## System Prompt
+```
+You are a brand strategist specializing in creating compelling brand identities for startups. Your expertise includes brand positioning, messaging, and visual identity development. Help craft brands that stand out in competitive tech startup spaces. Focus on clarity, memorability, and emotional connection. The tone should be confident, helpful, and slightly tech-savvy. Always provide specific, actionable insights and avoid generic advice. When generating content, prioritize conciseness and impact.
+```
+
+## Brand Naming Prompts
+1. **Tech Startup Naming**
+   "Generate 10 unique, memorable brand names for a [industry] startup that [value proposition]. Names should be 2-3 syllables, easy to spell, and have available .com domains. Include a brief explanation of each name's meaning and why it works for this brand."
+
+2. **Name Validation**
+   "Analyze the brand name '[name]' for a [industry] company. Evaluate on these criteria: memorability, pronunciation, spelling ease, domain availability, and cultural appropriateness. Provide a 1-10 rating for each and suggest improvements if needed."
+
+## Brand Story Prompts
+1. **Founder Story (150 words)**
+   "Write a 150-word founder story for [company name] that includes: the problem you're solving, your unique approach, and your vision. Tone: [confident/approachable/innovative]. Include specific details about your journey and what makes your solution different."
+
+2. **Elevator Pitch (35 words)**
+   "Create a 35-word elevator pitch for [company name] that clearly explains what you do, who you help, and why it matters. Make it compelling enough to spark interest in one breath."
+
+## Social Media Prompts
+1. **Engagement Post**
+   "Write a [platform] post about [topic] that will engage [target audience]. Include a thought-provoking question, 2-3 key points, and a clear CTA. Tone: [conversational/professional/inspirational]. Keep it under 200 words."
+
+2. **Content Calendar**
+   "Create a 7-day content calendar for [platform] focused on [theme]. Include post types (image, video, carousel), captions with emojis, and relevant hashtags. Format as a table with columns for day, content type, caption, and visual idea."
+
+## Blog Content Prompts
+1. **Listicle**
+   "Write a '7 [Tips/Ways/Secrets] to [Achieve X]' blog post for [target audience]. Each point should be 2-3 sentences with actionable advice. Include a brief intro and conclusion. Target word count: 700 words."
+
+2. **How-To Guide**
+   "Create a step-by-step guide on '[Specific Process]' for [beginners/experts]. Break down into 5-7 clear steps with explanations. Include common mistakes to avoid and pro tips. Format with H2s for each step."
+
+## Email Sequence Prompts
+1. **Welcome Series**
+   "Write a 3-email welcome sequence for new [product/service] subscribers. Email 1: Welcome + what to expect. Email 2: Share success story. Email 3: First action/offer. Keep each under 150 words with clear CTAs."
+
+2. **Cold Outreach**
+   "Draft a 4-email cold outreach sequence for [target role] at [industry] companies. Focus on providing value first, then introduce our solution. Include subject lines and 1-week follow-up cadence. Keep emails under 100 words."
+
+## Visual Design Prompts
+1. **Logo Design**
+   "Create a [minimalist/playful/elegant] logo for [company name] in the [industry]. Include the tagline '[tagline]'. Use colors: [hex codes]. Provide variations for light/dark backgrounds. Style: [describe style]. Should work at small sizes."
+
+2. **Social Media Graphic**
+   "Design a [platform]-sized graphic about [topic]. Include a bold headline, 2-3 key points, and our brand colors. Leave space for our logo. Style: [modern/retro/futuristic]. Dimensions: [specify]."
+
+## Conversion Copy Prompts
+1. **Landing Page**
+   "Write a landing page for [product/service] that converts visitors to [desired action]. Include: attention-grabbing headline, 3 key benefits, social proof, clear CTA, and FAQ section. Tone: [conversational/authoritative]."
+
+2. **Ad Copy**
+   "Create 3 Facebook ad variations for [product] targeting [audience]. Each should have:
+   - Headline (25 chars max)
+   - Primary text (125 chars max)
+   - Description (30 chars max)
+   - CTA button text
+   Focus on [unique selling point]."
+
+## Voice & Tone Guide
+"Define the voice and tone for [brand name] using these attributes: [list 3-5 adjectives]. Provide examples of how this translates to: website copy, social media, customer support, and marketing emails. Include 5 phrases we would say and 5 we wouldn't."
+
+## Competitive Analysis
+"Analyze [competitor 1], [competitor 2], and [competitor 3] in the [industry] space. For each, identify: target audience, value proposition, brand voice, visual style, and content strategy. Then recommend how [our brand] can differentiate while filling gaps in the market."

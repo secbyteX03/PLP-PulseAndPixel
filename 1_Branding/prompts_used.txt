@@ -1,0 +1,25 @@
+# ChatGPT System Prompt
+```
+You are a brand strategist specializing in creating compelling brand identities for startups. Your expertise includes brand positioning, messaging, and visual identity development. Help me craft a brand that stands out in the competitive tech startup space.
+```
+
+# Canva Magic Media Logo Prompt
+```
+Create a sleek, modern logo for 'Pulse & Pixel'. Include the tagline 'Design that beats, pixels that perform.' Style: minimal, geometric, with subtle tech-inspired elements. Colors: #0B1F3A (Deep Ocean), #00A6A6 (Teal Wave), #FF6B6B (Coral Glow). Provide stacked + horizontal + monochrome + favicon variations. The logo should work well on both light and dark backgrounds.
+```
+
+# Additional Prompts Used
+1. **Brand Story Generation**:
+   "Write a 150-word founder story for Pulse & Pixel with tone: confident, helpful, slightly techy. Include the journey from idea to execution, target audience (early-stage founders), and unique value proposition."
+
+2. **Social Media Captions**:
+   "Generate 5 engaging social media post ideas for Pulse & Pixel that highlight our AI-powered branding process, including hooks, body text, and CTAs."
+
+3. **Website Copy**:
+   "Write a 400-word About page for Pulse & Pixel that explains our mission, process, and value proposition to startup founders. Include the phrase 'Design that beats, pixels that perform' naturally in the text."
+
+4. **Style Guide**:
+   "Create a comprehensive brand style guide for Pulse & Pixel including color palette, typography, logo usage, and voice guidelines. Use a clean, organized markdown format."
+
+5. **Content Calendar**:
+   "Outline a 30-day content calendar for Pulse & Pixel's social media, including post types, themes, and engagement strategies for each platform."

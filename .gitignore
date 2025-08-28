@@ -1,0 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore package files
+*.zip
+*.ps1
+*.bat
+
+# Ignore environment and build files
+.env
+__pycache__/
+*.pyc
+
+# Ignore IDE specific files
+.vscode/
+.idea/

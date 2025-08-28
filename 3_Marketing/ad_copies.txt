@@ -1,0 +1,59 @@
+# Pulse & Pixel Ad Copies
+
+## Ad 1: Branding for Busy Founders
+**Headline (30 chars):**
+48-Hour Brand Sprints
+
+**Body (90 chars):**
+From idea to market-ready brand in 48 hours. AI-powered, human-refined. Launch with confidence.
+
+**CTA (20 chars):**
+Book Your Sprint Now
+
+---
+
+## Ad 2: Stand Out in Your Market
+**Headline (25 chars):**
+Your Startup Deserves Better
+
+**Body (80 chars):**
+Ditch generic templates. Get a strategic brand that converts. Starting at $2,495.
+
+**CTA (15 chars):**
+See How It Works
+
+---
+
+## Ad 3: The Smart Way to Brand
+**Headline (30 chars):**
+AI + Human = Perfect Brand Match
+
+**Body (85 chars):**
+Data-driven insights meet creative genius. Build a brand that resonates and converts.
+
+**CTA (20 chars):**
+Get Started Today
+
+---
+
+## Ad 4: For Early-Stage Startups
+**Headline (30 chars):**
+Pre-Launch? We've Got You
+
+**Body (75 chars):**
+Complete brand package in days, not months. Perfect for your upcoming launch.
+
+**CTA (15 chars):
+View Packages
+
+---
+
+## Ad 5: The Branding Alternative
+**Headline (25 chars):**
+Agency Quality, Startup Price
+
+**Body (90 chars):**
+Get a strategic brand identity without the agency price tag. 100% satisfaction guaranteed.
+
+**CTA (15 chars):
+Learn More Now

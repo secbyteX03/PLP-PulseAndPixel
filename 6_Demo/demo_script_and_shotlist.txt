@@ -1,0 +1,67 @@
+# Pulse & Pixel - Demo Script & Shotlist
+
+## Demo Overview
+- **Duration:** 90-120 seconds
+- **Purpose:** Showcase the AI-powered brand creation process
+- **Key Message:** "From concept to complete brand in under 2 minutes"
+
+## Shot List & Script
+
+### Opening (0:00 - 0:15)
+**Visual:** Clean screen with Pulse & Pixel logo and tagline
+**Script:** "Today, I'll show you how Pulse & Pixel creates a complete brand identity in under two minutes using AI and human expertise."
+
+### Step 1: ChatGPT Prompt (0:15 - 0:45)
+**Visual:** Screen recording of ChatGPT interface
+**Action:**
+1. Open new chat
+2. Paste system prompt (see below)
+3. Type: "Write a 150-word founder-facing brand story for Pulse & Pixel with tone: confident, helpful, slightly techy."
+4. Show results
+
+**Script:** "First, we use ChatGPT to generate the brand narrative. Our system prompt ensures we get consistent, on-brand results every time."
+
+### Step 2: Canva Magic Media (0:45 - 1:30)
+**Visual:** Screen recording of Canva
+**Action:**
+1. Open Canva
+2. Select Magic Media
+3. Paste logo prompt (see below)
+4. Generate variations
+5. Select best option
+6. Export SVG/PNG
+
+**Script:** "Next, we bring our brand to life with Canva's Magic Media. Watch as we generate multiple logo variations in seconds, then refine our selection."
+
+### Step 3: Final Result (1:30 - 2:00)
+**Visual:** Split screen showing:
+- Left: Brand story from ChatGPT
+- Right: Generated logo in various applications (business card, website mockup, social media)
+
+**Script:** "In just 90 seconds, we've created a complete brand foundation. What used to take weeks now happens in minutes, giving startups the speed and quality they need to succeed."
+
+**Call to Action:** "Ready to create your brand? Visit pulseandpixel.com to start your 48-hour brand sprint today!"
+
+## Prompts to Use
+
+### ChatGPT System Prompt (Run First)
+```
+You are a brand strategist specializing in creating compelling brand identities for startups. Your expertise includes brand positioning, messaging, and visual identity development. Help me craft a brand that stands out in the competitive tech startup space. Focus on clarity, memorability, and emotional connection. The tone should be confident, helpful, and slightly tech-savvy. Always include specific, actionable insights and avoid generic advice.
+```
+
+### Canva Magic Media Logo Prompt
+```
+Create a sleek, modern logo for 'Pulse & Pixel'. Include the tagline 'Design that beats, pixels that perform.' Style: minimal, geometric, with subtle tech-inspired elements. Colors: #0B1F3A (Deep Ocean), #00A6A6 (Teal Wave), #FF6B6B (Coral Glow). Provide stacked + horizontal + monochrome + favicon variations. The logo should work well on both light and dark backgrounds and maintain clarity at small sizes.
+```
+
+## File Naming & Saving
+1. Save all generated assets to: `/6_Demo/generated_assets/`
+2. Naming convention: `pulse_pixel_[type]_[date].ext`
+   - Example: `pulse_pixel_logo_horizontal_20250315.svg`
+   - Example: `pulse_pixel_brand_story_20250315.txt`
+
+## Final Notes
+- Keep the pace energetic but clear
+- Highlight the speed and quality of the process
+- End with a strong call to action
+- Smile and have fun!

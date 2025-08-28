@@ -1,0 +1,37 @@
+# Pulse & Pixel Logo Files
+
+## Expected Files
+- `pulse_pixel_logo_horizontal.svg` - Primary horizontal logo (color)
+- `pulse_pixel_logo_horizontal_mono.svg` - Monochrome horizontal logo
+- `pulse_pixel_logo_stacked.svg` - Stacked version (color)
+- `pulse_pixel_logo_stacked_mono.svg` - Monochrome stacked version
+- `favicon_64.png` - 64x64px favicon
+- `favicon_32.png` - 32x32px favicon
+- `favicon_16.png` - 16x16px favicon
+- `logo_usage_guidelines.pdf` - Detailed usage instructions
+
+## Usage Notes
+- **Primary Logo**: Use the horizontal version in most applications where space allows
+- **Stacked Version**: Best for square spaces or mobile applications
+- **Monochrome**: Use on colored backgrounds or when printing in single color
+- **Minimum Size**: 100px width for horizontal, 50px height for stacked
+- **Clear Space**: Maintain clear space equal to the height of the "P" in "Pulse"
+- **Backgrounds**: Logo works on both light and dark backgrounds (use appropriate color version)
+- **File Formats**:
+  - SVG for web and digital use
+  - PNG with transparent background for web
+  - PDF for print materials
+  - EPS for professional printing
+
+## Color Variations
+- **Full Color**: Primary version with all brand colors
+- **Monochrome**: Single color version for single-color printing or colored backgrounds
+- **White**: For dark backgrounds (included in monochrome set)
+- **Black**: For light backgrounds (included in monochrome set)
+
+## Do Not
+- Stretch or distort the logo
+- Change the color scheme
+- Rotate the logo
+- Add effects like shadows or glows
+- Place on busy backgrounds that reduce visibility
