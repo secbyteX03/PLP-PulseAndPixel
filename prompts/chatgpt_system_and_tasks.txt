@@ -14,10 +14,10 @@ You are a brand strategist specializing in creating compelling brand identities 
 
 ## Brand Story Prompts
 1. **Founder Story (150 words)**
-   "Write a 150-word founder story for [company name] that includes: the problem you're solving, your unique approach, and your vision. Tone: [confident/approachable/innovative]. Include specific details about your journey and what makes your solution different."
+   "Write a 150-word founder story for Pulse & Pixel that includes: the problem you're solving, your unique approach, and your vision. Tone: [confident/approachable/innovative]. Include specific details about your journey and what makes your solution different."
 
 2. **Elevator Pitch (35 words)**
-   "Create a 35-word elevator pitch for [company name] that clearly explains what you do, who you help, and why it matters. Make it compelling enough to spark interest in one breath."
+   "Create a 35-word elevator pitch for Pulse & Pixel that clearly explains what you do, who you help, and why it matters. Make it compelling enough to spark interest in one breath."
 
 ## Social Media Prompts
 1. **Engagement Post**
@@ -42,7 +42,7 @@ You are a brand strategist specializing in creating compelling brand identities 
 
 ## Visual Design Prompts
 1. **Logo Design**
-   "Create a [minimalist/playful/elegant] logo for [company name] in the [industry]. Include the tagline '[tagline]'. Use colors: [hex codes]. Provide variations for light/dark backgrounds. Style: [describe style]. Should work at small sizes."
+   "Create a [minimalist/playful/elegant] logo for Pulse & Pixel in the [industry]. Include the tagline '[tagline]'. Use colors: [hex codes]. Provide variations for light/dark backgrounds. Style: [describe style]. Should work at small sizes."
 
 2. **Social Media Graphic**
    "Design a [platform]-sized graphic about [topic]. Include a bold headline, 2-3 key points, and our brand colors. Leave space for our logo. Style: [modern/retro/futuristic]. Dimensions: [specify]."
