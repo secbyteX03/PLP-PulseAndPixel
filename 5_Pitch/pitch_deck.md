@@ -90,7 +90,7 @@
 - Defensible tech advantage
 
 ## Slide 9: The Team
-**Founder:** [Your Name]  
+**Founder:** Magret Faith  
 - 10+ years in brand strategy
 - Ex-[Previous Company]
 - [Relevant Achievement]  
@@ -129,11 +129,11 @@
 - First step in transforming the industry
 
 ## Slide 12: Thank You
-**Contact:**  
-[Your Name]  
+**Founder:** Magret Faith  
 [Your Email]  
 [Your Phone]  
-**Visual:** Logo and tagline  
+[Your Website]  
+[LinkedIn Profile]  
 **Speaker Notes:**
 - Thank you for your time
 - Excited about potential partnership
