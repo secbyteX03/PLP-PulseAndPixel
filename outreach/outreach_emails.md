@@ -2,7 +2,7 @@
 
 ## Email 1: Initial Connection
 **Subject Lines (A/B Test):**
-1. "Quick question about [Company Name]"
+1. "Quick question about Pulse & Pixel"
 2. "[Mutual Connection] suggested we connect"
 3. "Loved your work on [Specific Project]"
 4. "3 ideas to boost [Specific Metric] at [Company]"
@@ -18,7 +18,7 @@ At Pulse & Pixel, we've been helping companies like [similar company] transform 
 Would you be open to a quick 15-minute call next week to discuss? No pressure, just some thoughts that might help with [specific goal/challenge].
 
 Best regards,
-[Your Name]
+Magret Faith
 
 **Follow-up:** 4 days if no response
 
@@ -29,7 +29,7 @@ Best regards,
 1. "Following up"
 2. "Thought you might find this helpful"
 3. "Quick case study for [Industry]"
-4. "[Company Name] + Pulse & Pixel?"
+4. "Pulse & Pixel + Your Brand?"
 5. "Resource for [Specific Challenge]"
 
 **Body:**
@@ -40,7 +40,7 @@ I wanted to follow up on my previous email and share something you might find va
 If you're interested, I'd love to schedule a quick chat to discuss how we might be able to help with [specific challenge/opportunity]. Would [Day] at [Time] work for you?
 
 Best regards,
-[Your Name]
+Magret Faith
 
 **Follow-up:** 5 days if no response
 
@@ -64,7 +64,7 @@ If you're open to it, I'd love to share the full case study and explore if a sim
 If not, no worries at all, and I won't bother you further.
 
 Best regards,
-[Your Name]
+Magret Faith
 
 **Follow-up:** 7 days if no response
 
@@ -88,7 +88,7 @@ That said, I'm always here if you need help with [specific challenge] or want to
 Either way, I wish you continued success with [specific aspect of their work].
 
 Best regards,
-[Your Name]
+Magret Faith
 
 **Final Note:** If they respond at any point, immediately move them to a new sequence based on their interest level and needs.
 
