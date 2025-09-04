@@ -67,7 +67,10 @@ def main():
             if not os.path.exists(output_path):
                 create_favicon(favicon_path, output_path, size)
     
-    # Apple Touch Icon generation removed as per user request
+    # Create apple touch icon (180x180)
+    apple_icon_path = os.path.join(images_dir, 'apple-touch-icon.png')
+    if os.path.exists(favicon_path) and not os.path.exists(apple_icon_path):
+        create_favicon(favicon_path, apple_icon_path, 180)
 
 if __name__ == "__main__":
     main()

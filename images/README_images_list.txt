@@ -11,6 +11,7 @@
 - `favicon_16x16.png` - 16x16 favicon
 - `favicon_32x32.png` - 32x32 favicon
 - `favicon_64x64.png` - 64x64 favicon
+- `apple-touch-icon.png` - 180x180 Apple touch icon
 
 ## Website Images
 - `hero_desktop.jpg` - Desktop hero image (1920x1080)

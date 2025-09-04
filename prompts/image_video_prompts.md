@@ -127,8 +127,9 @@
 4. Apply the brand gradient
 5. Export in these formats:
    - ICO (for favicon.ico)
-   - PNG-16 (for favicon.ico)
    - PNG-32 (for favicon-32x32.png)
+   - PNG-16 (for favicon-16x16.png)
+   - PNG-180 (for apple-touch-icon.png)
 
 **Usage Notes:**
 - Test visibility at all sizes (16px to 512px)
@@ -138,7 +139,26 @@
 
 ---
 
+### 6. Apple Touch Icon
+**Filename:** `apple-touch-icon.png`  
+**Dimensions:** 180x180px  
+**Format:** PNG (transparent background)  
+**Usage:** iOS home screen, Android bookmarks  
 
+**Prompt for Canva Magic Media:**  
+"Create a square app icon (180x180px) for Pulse & Pixel using the stacked logo design. The icon should have a clean, modern look with the brand gradient (#6C63FF to #FF6584). Include subtle depth and shine effects to make it look like a modern iOS app icon. The design should be centered with appropriate padding."
+
+**Step-by-Step Instructions:**
+1. Create a new 180x180px design in Canva
+2. Generate the stacked logo using Magic Media
+3. Add subtle depth and shine effects
+4. Ensure the design is centered with proper padding
+5. Export as PNG with transparency
+
+**Usage Notes:**
+- Include in the root directory of the website
+- Update HTML header with proper iOS meta tags
+- Test on both light and dark mode devices
 - Ensure touch targets are at least 44x44px
 
 ## Website Images
