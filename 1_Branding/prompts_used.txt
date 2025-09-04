@@ -5,7 +5,7 @@ You are a brand strategist specializing in creating compelling brand identities 
 
 # Canva Magic Media Logo Prompt
 ```
-Create a sleek, modern logo for 'Pulse & Pixel'. Include the tagline 'Design that beats, pixels that perform.' Style: minimal, geometric, with subtle tech-inspired elements. Colors: #0B1F3A (Deep Ocean), #00A6A6 (Teal Wave), #FF6B6B (Coral Glow). Provide stacked + horizontal + monochrome + favicon variations. The logo should work well on both light and dark backgrounds.
+Create a Elegant minimal logo for Pulse & Pixel — single-line pulse that transforms into a pixel mosaic beside a geometric wordmark. Colors: Deep Navy, Electric Teal, Coral Pop.
 ```
 
 # Additional Prompts Used

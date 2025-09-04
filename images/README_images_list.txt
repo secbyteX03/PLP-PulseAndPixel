@@ -1,13 +1,16 @@
 # Pulse & Pixel - Image Assets List
 
 ## Logo Files
+### Main Logos
 - `logo_horizontal_color.png` - Horizontal logo in color (RGB, transparent background)
 - `logo_horizontal_white.png` - Horizontal logo in white (for dark backgrounds)
 - `logo_stacked_color.png` - Stacked logo in color
-- `logo_stacked_white.png` - Stacked logo in white
-- `favicon.ico` - 64x64 favicon
-- `favicon-32x32.png` - 32x32 favicon
-- `favicon-16x16.png` - 16x16 favicon
+- `logo_stacked_white.png` - Stacked logo in white (for dark backgrounds)
+
+### Favicons
+- `favicon_16x16.png` - 16x16 favicon
+- `favicon_32x32.png` - 32x32 favicon
+- `favicon_64x64.png` - 64x64 favicon
 - `apple-touch-icon.png` - 180x180 Apple touch icon
 
 ## Website Images

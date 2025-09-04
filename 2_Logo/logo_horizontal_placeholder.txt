@@ -1,14 +1,11 @@
 # Pulse & Pixel Logo Files
 
-## Expected Files
-- `pulse_pixel_logo_horizontal.svg` - Primary horizontal logo (color)
-- `pulse_pixel_logo_horizontal_mono.svg` - Monochrome horizontal logo
-- `pulse_pixel_logo_stacked.svg` - Stacked version (color)
-- `pulse_pixel_logo_stacked_mono.svg` - Monochrome stacked version
-- `favicon_64.png` - 64x64px favicon
-- `favicon_32.png` - 32x32px favicon
-- `favicon_16.png` - 16x16px favicon
-- `logo_usage_guidelines.pdf` - Detailed usage instructions
+## Available Logo Files
+- `logo_horizontal_color.png` - Primary horizontal logo (color, transparent background)
+- `logo_horizontal_white.png` - Monochrome horizontal logo (for dark backgrounds)
+- `logo_stacked_color.png` - Stacked version (color, transparent background)
+
+*Note: These files are located in the `/images/` directory. Additional variations can be generated as needed.*
 
 ## Usage Notes
 - **Primary Logo**: Use the horizontal version in most applications where space allows
