@@ -116,7 +116,6 @@ PLP-PulseAndPixel/
 | 16x16 | <img src="images/favicon_16x16.png" alt="16x16"> |
 | 32x32 | <img src="images/favicon_32x32.png" alt="32x32"> |
 | 64x64 | <img src="images/favicon_64x64.png" alt="64x64"> |
-| Apple Touch | <img src="images/apple-touch-icon.png" alt="Apple Touch" width="64"> |
 
 ---
 
